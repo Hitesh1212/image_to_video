@@ -31,7 +31,7 @@ generating image to video using AI video model
 git clone https://github.com/Hitesh1212/image_to_video.git
 cd image_to_video
 
-##install frontend
+## install frontend
 cd client
 npm install
 
