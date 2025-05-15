@@ -44,10 +44,10 @@ cd server/.env
 
 ## env data
 
-PORT=3005
+PORT=
 MONGO_URI=
 JWT_SECRET=
-URL=http://localhost:3005/static_files/
+URL=
 CLOUDINARY_NAME=
 CLOUDINARY_API_KEY=
 CLOUDINARY_SECRET_KEY=
